@@ -25,3 +25,4 @@ pip install nltk pandas numpy
 git clone https://github.com/yigitcftcgl/Hidden-Markov-Model-Pos-Tagging.git
 
 
+![hmm_pos](https://github.com/yigitcftcgl/Hidden-Markov-Model-Pos-Tagging/assets/59434876/337311d8-437b-4fe7-8270-1675f190b6b6)
