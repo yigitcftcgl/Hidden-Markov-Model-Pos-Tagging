@@ -26,3 +26,4 @@ git clone https://github.com/yigitcftcgl/Hidden-Markov-Model-Pos-Tagging.git
 
 
 ![hmm_pos](https://github.com/yigitcftcgl/Hidden-Markov-Model-Pos-Tagging/assets/59434876/548c0336-9c9f-46a0-b9c8-64cb2aa085e0)
+![raspberry pi gps mpu](https://github.com/yigitcftcgl/Hidden-Markov-Model-Pos-Tagging/assets/59434876/41888cd1-3c2f-47be-b139-92c3fdc784eb)
