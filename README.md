@@ -24,7 +24,4 @@ pip install nltk pandas numpy
 
 git clone https://github.com/yigitcftcgl/Hidden-Markov-Model-Pos-Tagging.git
 
-![Alt text]([hmm_pos.jpg](https://medium.com/data-science-in-your-pocket/pos-tagging-using-hidden-markov-models-hmm-viterbi-algorithm-in-nlp-mathematics-explained-d43ca89347c4))
-
-
 
