@@ -23,4 +23,3 @@ Install the required libraries using pip:
 pip install nltk pandas numpy
 
 git clone https://github.com/yigitcftcgl/Hidden-Markov-Model-Pos-Tagging.git
-![image.png](attachment:9cc2a269-d756-4470-b1be-3437a1379891.png)
